@@ -1,0 +1,90 @@
+# Decap CMS — the Luv Fats team edits the JSON in /data; every save is a git commit (rollback-able).
+# Netlify build command `python3 tools/build_pages.py` re-renders the HTML. Hours/open-status also read /data/settings.json live.
+backend:
+  name: git-gateway
+  branch: main
+# local_backend: true   # for `npx decap-server` on a laptop
+publish_mode: editorial_workflow
+media_folder: "site/assets/uploads"
+public_folder: "/assets/uploads"
+site_url: https://www.luvfatsicecream.com
+logo_url: /assets/icons/icon-192.png
+
+collections:
+  - name: settings
+    label: "Shop settings"
+    files:
+      - name: settings
+        label: "Settings & hours"
+        file: "site/data/settings.json"
+        fields:
+          - { name: conceptPreview, label: "Show the concept-preview ribbon (turn off after approval)", widget: boolean, default: true }
+          - { name: tagline, label: "Tagline", widget: string }
+          - { name: phone, label: "Phone (display)", widget: string }
+          - { name: phoneE164, label: "Phone (+1…)", widget: string }
+          - { name: hoursAsOf, label: "Hours note (as of…)", widget: string }
+          - name: hours
+            label: "Weekly hours (24h, leave empty for closed)"
+            widget: object
+            fields:
+              - { name: mon, label: Monday, widget: list, required: false }
+              - { name: tue, label: Tuesday, widget: list, required: false }
+              - { name: wed, label: Wednesday, widget: list, required: false }
+              - { name: thu, label: Thursday, widget: list, required: false }
+              - { name: fri, label: Friday, widget: list, required: false }
+              - { name: sat, label: Saturday, widget: list, required: false }
+              - { name: sun, label: Sunday, widget: list, required: false }
+          - name: closures
+            label: "One-off closures (holidays)"
+            widget: list
+            required: false
+            fields:
+              - { name: date, label: "Date", widget: datetime, format: "YYYY-MM-DD", time_format: false }
+              - { name: reason, label: "Reason", widget: string, required: false }
+  - name: flavors
+    label: "Flavor library"
+    files:
+      - name: flavors
+        label: "Flavors"
+        file: "site/data/flavors.json"
+        fields:
+          - name: items
+            label: "Flavors"
+            widget: list
+            fields:
+              - { name: name, label: "Name", widget: string }
+              - { name: type, label: "Type", widget: select, options: ["ice cream", "sorbet"] }
+              - { name: profile, label: "Profile", widget: select, options: [floral, spiced, bright, nostalgic, nutty, herbal, roasty, savory-sweet] }
+              - { name: source, label: "Where it was named", widget: string }
+              - { name: sourceUrl, label: "Source link", widget: string }
+              - { name: seen, label: "Year", widget: string }
+              - { name: note, label: "Note", widget: string, required: false }
+  - name: press
+    label: "Press"
+    files:
+      - name: press
+        label: "Press"
+        file: "site/data/press.json"
+        fields:
+          - name: items
+            label: "Articles"
+            widget: list
+            fields:
+              - { name: outlet, label: "Outlet", widget: string }
+              - { name: title, label: "Title", widget: string }
+              - { name: date, label: "Date", widget: datetime, format: "YYYY-MM-DD", time_format: false }
+              - { name: url, label: "Link", widget: string }
+              - { name: line, label: "One line", widget: string }
+  - name: faqs
+    label: "FAQ"
+    files:
+      - name: faqs
+        label: "Questions"
+        file: "site/data/faqs.json"
+        fields:
+          - name: items
+            label: "Q&A"
+            widget: list
+            fields:
+              - { name: q, label: "Question", widget: string }
+              - { name: a, label: "Answer", widget: text }

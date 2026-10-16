@@ -1,0 +1,71 @@
+{
+ "name": "Luv Fats",
+ "fullName": "Luv Fats Ice Cream",
+ "owner": "Chi Ndika",
+ "ownerFirst": "Chi",
+ "tagline": "Ice cream made with luv and avocados.",
+ "address": {
+  "street": "4700 Loyola Ln, Suite 101",
+  "city": "Austin",
+  "region": "TX",
+  "zip": "78723",
+  "country": "US"
+ },
+ "lat": 30.30966,
+ "lng": -97.6663,
+ "phone": "(512) 968-3774",
+ "phoneE164": "+15129683774",
+ "instagram": "https://www.instagram.com/luvfatsicecream/",
+ "facebook": "https://www.facebook.com/luvfatsicecream",
+ "handle": "@luvfatsicecream",
+ "siteUrl": "https://www.luvfatsicecream.com",
+ "conceptPreview": true,
+ "timezone": "America/Chicago",
+ "hours": {
+  "mon": null,
+  "tue": null,
+  "wed": [
+   "13:00",
+   "20:00"
+  ],
+  "thu": [
+   "13:00",
+   "20:00"
+  ],
+  "fri": [
+   "13:00",
+   "20:00"
+  ],
+  "sat": [
+   "13:00",
+   "20:00"
+  ],
+  "sun": [
+   "13:00",
+   "20:00"
+  ]
+ },
+ "hoursAsOf": "Oct 2026, per the shop’s Instagram",
+ "hoursNote": "",
+ "closures": [],
+ "opened": "2026-07-29",
+ "since": "2018",
+ "updated": "2026-10-16",
+ "confirm": {
+  "domain": "[CONFIRM WITH CLIENT: replace the old site on luvfatsicecream.com? DNS/hosting access]",
+  "coords": "[CONFIRM WITH CLIENT: map pin is approximate for 4700 Loyola Ln]",
+  "pintPrice": "[CONFIRM WITH CLIENT: current pint price, and is pint pre-order still offered?]",
+  "pintPickup": "[CONFIRM WITH CLIENT: pint pickup days/times and payment method]",
+  "allergens": "[CONFIRM WITH CLIENT: allergen + cross-contact statement (coconut, nuts, gluten, soy)]",
+  "stockists": "[CONFIRM WITH CLIENT: current wholesale accounts to list publicly]",
+  "wholesale": "[CONFIRM WITH CLIENT: wholesale minimums, lead time, delivery radius]",
+  "events": "[CONFIRM WITH CLIENT: does Luv Fats do catering/pop-ups? minimums?]",
+  "photos": "[CONFIRM WITH CLIENT: real photos of the shop, scoops and pints to replace AI stand-ins]",
+  "chiPhoto": "[CONFIRM WITH CLIENT: a portrait of Chi she approves for the story page]",
+  "heritage": "[CONFIRM WITH CLIENT: OK to say flavors are inspired by Kenyan and Nigerian roots (from the old site)?]",
+  "email": "[CONFIRM WITH CLIENT: public email for orders/wholesale]",
+  "parking": "[CONFIRM WITH CLIENT: parking, seating, step-free access]",
+  "dropList": "[CONFIRM WITH CLIENT: email tool for the luv letter + postal address for CAN-SPAM footer]",
+  "pressQuotes": "[CONFIRM WITH CLIENT: OK to show short attributed press lines]"
+ }
+}

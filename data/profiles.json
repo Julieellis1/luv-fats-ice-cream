@@ -1,0 +1,44 @@
+{
+ "items": [
+  {
+   "id": "floral",
+   "label": "Floral",
+   "hint": "lavender, hibiscus, rose"
+  },
+  {
+   "id": "spiced",
+   "label": "Spiced",
+   "hint": "chai, cinnamon"
+  },
+  {
+   "id": "bright",
+   "label": "Bright & fruity",
+   "hint": "sorbets, citrus, peach"
+  },
+  {
+   "id": "nostalgic",
+   "label": "Nostalgic",
+   "hint": "banana pudding, cookies"
+  },
+  {
+   "id": "nutty",
+   "label": "Nutty",
+   "hint": "black sesame, pecan"
+  },
+  {
+   "id": "herbal",
+   "label": "Herbal",
+   "hint": "rosemary, bay leaf"
+  },
+  {
+   "id": "roasty",
+   "label": "Roasty",
+   "hint": "coffee, chocolate, mate"
+  },
+  {
+   "id": "savory-sweet",
+   "label": "Savory-sweet",
+   "hint": "soy sauce pandan"
+  }
+ ]
+}

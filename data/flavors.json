@@ -1,0 +1,257 @@
+{
+ "items": [
+  {
+   "name": "Lavender Cookies & Cream",
+   "type": "ice cream",
+   "profile": "floral",
+   "source": "Austin Chronicle",
+   "sourceUrl": "https://www.austinchronicle.com/music/crosstalk/buzzy-new-homes-for-dancing-eating-and-jazz-snapping/",
+   "seen": "2026",
+   "note": "Named at the Loyola opening."
+  },
+  {
+   "name": "Lemon Cookie",
+   "type": "ice cream",
+   "profile": "bright",
+   "source": "Austin Chronicle",
+   "sourceUrl": "https://www.austinchronicle.com/music/crosstalk/buzzy-new-homes-for-dancing-eating-and-jazz-snapping/",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Sugarcane & Kumquat Sorbet",
+   "type": "sorbet",
+   "profile": "bright",
+   "source": "Austin Chronicle",
+   "sourceUrl": "https://www.austinchronicle.com/music/crosstalk/buzzy-new-homes-for-dancing-eating-and-jazz-snapping/",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Chocolate Chai",
+   "type": "ice cream",
+   "profile": "spiced",
+   "source": "Austin American-Statesman",
+   "sourceUrl": "https://www.statesman.com/project/best-ice-cream-austin-shops-gelato-vegan-paletas/",
+   "seen": "2026",
+   "note": "“Some variation of chai and lavender almost always available.”"
+  },
+  {
+   "name": "Yerba Mate",
+   "type": "ice cream",
+   "profile": "roasty",
+   "source": "Austin American-Statesman",
+   "sourceUrl": "https://www.statesman.com/project/best-ice-cream-austin-shops-gelato-vegan-paletas/",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Vanilla Buckeye",
+   "type": "ice cream",
+   "profile": "nostalgic",
+   "source": "Where Y’all At Though?!",
+   "sourceUrl": "https://www.whereyallatthough.com/hub/where-yall-eating-at-though-august-2026",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Mango Sorbet",
+   "type": "sorbet",
+   "profile": "bright",
+   "source": "Where Y’all At Though?!",
+   "sourceUrl": "https://www.whereyallatthough.com/hub/where-yall-eating-at-though-august-2026",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Caramel Rosemary",
+   "type": "ice cream",
+   "profile": "herbal",
+   "source": "The Infatuation",
+   "sourceUrl": "https://www.theinfatuation.com/austin/reviews/luv-fats-ice-cream",
+   "seen": "2022–26",
+   "note": ""
+  },
+  {
+   "name": "Ube Black Sesame",
+   "type": "ice cream",
+   "profile": "nutty",
+   "source": "The Infatuation",
+   "sourceUrl": "https://www.theinfatuation.com/austin/reviews/luv-fats-ice-cream",
+   "seen": "2022–26",
+   "note": ""
+  },
+  {
+   "name": "Banana Pudding",
+   "type": "ice cream",
+   "profile": "nostalgic",
+   "source": "The Infatuation",
+   "sourceUrl": "https://www.theinfatuation.com/austin/reviews/luv-fats-ice-cream",
+   "seen": "2022–26",
+   "note": ""
+  },
+  {
+   "name": "Hibiscus & Orange Sorbet",
+   "type": "sorbet",
+   "profile": "floral",
+   "source": "Float & Flow",
+   "sourceUrl": "https://floatandflowmag.substack.com/p/issue-05-culture-why-chi-ndika-of",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Kenyan Chocolate Chai",
+   "type": "ice cream",
+   "profile": "spiced",
+   "source": "Float & Flow",
+   "sourceUrl": "https://floatandflowmag.substack.com/p/issue-05-culture-why-chi-ndika-of",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Soy Sauce Pandan",
+   "type": "ice cream",
+   "profile": "savory-sweet",
+   "source": "Restaurantji guest favorites",
+   "sourceUrl": "https://www.restaurantji.com/tx/austin/luv-fats-ice-cream-/",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Cucumber Lime Sorbet",
+   "type": "sorbet",
+   "profile": "bright",
+   "source": "Restaurantji guest favorites",
+   "sourceUrl": "https://www.restaurantji.com/tx/austin/luv-fats-ice-cream-/",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Cinnamon Cookies",
+   "type": "ice cream",
+   "profile": "spiced",
+   "source": "Restaurantji guest favorites",
+   "sourceUrl": "https://www.restaurantji.com/tx/austin/luv-fats-ice-cream-/",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Black Sesame",
+   "type": "ice cream",
+   "profile": "nutty",
+   "source": "Restaurantji guest favorites",
+   "sourceUrl": "https://www.restaurantji.com/tx/austin/luv-fats-ice-cream-/",
+   "seen": "2026",
+   "note": ""
+  },
+  {
+   "name": "Peach-Pandan",
+   "type": "ice cream",
+   "profile": "bright",
+   "source": "La Patisserie affogato collab",
+   "sourceUrl": "https://lpaustin.com/events",
+   "seen": "2025",
+   "note": ""
+  },
+  {
+   "name": "Lavender-Rose-Chocolate",
+   "type": "ice cream",
+   "profile": "floral",
+   "source": "La Patisserie affogato collab",
+   "sourceUrl": "https://lpaustin.com/events",
+   "seen": "2025",
+   "note": ""
+  },
+  {
+   "name": "Birthday Chai",
+   "type": "ice cream",
+   "profile": "spiced",
+   "source": "StarChefs",
+   "sourceUrl": "https://www.starchefs.com/on-the-ground/chi-ndika",
+   "seen": "2023",
+   "note": "With sprinkles and Oreos."
+  },
+  {
+   "name": "Rosemary Caramel",
+   "type": "ice cream",
+   "profile": "herbal",
+   "source": "StarChefs",
+   "sourceUrl": "https://www.starchefs.com/on-the-ground/chi-ndika",
+   "seen": "2023",
+   "note": ""
+  },
+  {
+   "name": "Bay Leaf-Coconut Sundae",
+   "type": "ice cream",
+   "profile": "herbal",
+   "source": "StarChefs",
+   "sourceUrl": "https://www.starchefs.com/on-the-ground/chi-ndika",
+   "seen": "2023",
+   "note": "With jalapeño olive oil, peach jam and aquafaba fluff."
+  },
+  {
+   "name": "Sourdough Toast & Peach Jam",
+   "type": "ice cream",
+   "profile": "nostalgic",
+   "source": "Old Luv Fats site",
+   "sourceUrl": "https://www.luvfatsicecream.com/pre-order",
+   "seen": "2023",
+   "note": ""
+  },
+  {
+   "name": "Yellow Watermelon Sorbet",
+   "type": "sorbet",
+   "profile": "bright",
+   "source": "Old Luv Fats site",
+   "sourceUrl": "https://www.luvfatsicecream.com/pre-order",
+   "seen": "2023",
+   "note": ""
+  },
+  {
+   "name": "Kenyan Chai",
+   "type": "ice cream",
+   "profile": "spiced",
+   "source": "Old Luv Fats site",
+   "sourceUrl": "https://www.luvfatsicecream.com/pre-order",
+   "seen": "2023",
+   "note": ""
+  },
+  {
+   "name": "Colombian Chocolate",
+   "type": "ice cream",
+   "profile": "roasty",
+   "source": "Eater Austin",
+   "sourceUrl": "https://austin.eater.com/2022/5/31/23148884/luv-fats-ice-cream-austin-open-store-vegan",
+   "seen": "2022",
+   "note": ""
+  },
+  {
+   "name": "Kenyan Coffee",
+   "type": "ice cream",
+   "profile": "roasty",
+   "source": "Eater Austin",
+   "sourceUrl": "https://austin.eater.com/2022/5/31/23148884/luv-fats-ice-cream-austin-open-store-vegan",
+   "seen": "2022",
+   "note": ""
+  },
+  {
+   "name": "Lavender-Blackberry Jam",
+   "type": "ice cream",
+   "profile": "floral",
+   "source": "Eater Austin",
+   "sourceUrl": "https://austin.eater.com/2022/5/31/23148884/luv-fats-ice-cream-austin-open-store-vegan",
+   "seen": "2022",
+   "note": ""
+  },
+  {
+   "name": "Butter Pecan",
+   "type": "ice cream",
+   "profile": "nutty",
+   "source": "Eater Austin",
+   "sourceUrl": "https://austin.eater.com/2022/5/31/23148884/luv-fats-ice-cream-austin-open-store-vegan",
+   "seen": "2022",
+   "note": ""
+  }
+ ],
+ "confirm": "[CONFIRM WITH CLIENT: this is a library of flavors named in press/listings, not today's case — OK to publish? add/remove any]"
+}

@@ -1,0 +1,53 @@
+{
+ "items": [
+  {
+   "q": "Is everything vegan?",
+   "a": "Yes. Luv Fats ice cream is dairy-free and egg-free, made on a base of coconut milk and avocado."
+  },
+  {
+   "q": "Why avocado?",
+   "a": "Chi wanted a dairy-free scoop that wasn’t icy and didn’t just taste like the milk it was made from. Coconut milk, avocado, a little cocoa butter and avocado oil give it that dense, creamy texture."
+  },
+  {
+   "q": "Does it taste like avocado?",
+   "a": "Not really. The avocado is there for texture and richness; the flavor comes from what Chi pairs it with: chai, lavender, fruit, herbs."
+  },
+  {
+   "q": "What flavors are on today?",
+   "a": "The case rotates, so check Instagram before you come. The Flavors page is a library of past and recurring flavors, not today’s menu."
+  },
+  {
+   "q": "When are you open?",
+   "a": "Wednesday to Sunday, 1 to 8 pm. Closed Monday and Tuesday. Holiday changes are posted on Instagram first."
+  },
+  {
+   "q": "Where is the shop?",
+   "a": "4700 Loyola Lane, Suite 101, Austin, TX 78723, in Northeast Austin. The old North Lamar window has closed."
+  },
+  {
+   "q": "Is it gluten-free or nut-free?",
+   "a": "Some flavors and toppings may contain nuts, gluten or soy, and everything is made in one small kitchen. If you have an allergy, ask at the counter before you order."
+  },
+  {
+   "q": "What’s the marshmallow on top?",
+   "a": "A torched marshmallow fluff, made vegan with aquafaba. It’s the topping most people come back for."
+  },
+  {
+   "q": "Can I buy pints?",
+   "a": "Yes, pints are sold at the shop. You can also send a pint request from the Pints page and the team will confirm availability and pickup."
+  },
+  {
+   "q": "Do you sell to cafés or stores?",
+   "a": "Luv Fats is growing its wholesale side. Send a request from the Wholesale page with your business and volume."
+  },
+  {
+   "q": "Can Luv Fats come to my event?",
+   "a": "Send an event request with the date, headcount and location. Every request gets a reply, but not every date is possible."
+  },
+  {
+   "q": "Do you take returns on pints?",
+   "a": "Please bring your clean pint container back to reuse. Fewer containers is part of how Luv Fats keeps waste down."
+  }
+ ],
+ "confirm": "[CONFIRM WITH CLIENT: allergen wording, pint/wholesale/event answers]"
+}
